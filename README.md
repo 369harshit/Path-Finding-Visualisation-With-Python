@@ -41,12 +41,12 @@ Breadth-first search
 1. Rule of expansion - Expand least recently added node
 2. Acts like a wide net that covers every node that is closest in order
 3. Always finds optimal route, however can be quite slow in long range searches
+
+![BFS-Empty-ezgif com-crop](https://github.com/user-attachments/assets/16761c5a-12d0-4f51-b38b-f9cd0baec8f2)
    
 ![BFS-2-ezgif com-crop](https://github.com/user-attachments/assets/e368284a-9d1e-49e7-b76e-805378ae7d0e)
 
 ![BFS-1-ezgif com-crop](https://github.com/user-attachments/assets/14153a15-3d16-464c-a582-133eb08bbeba)
-
-![BFS-Empty-ezgif com-crop](https://github.com/user-attachments/assets/16761c5a-12d0-4f51-b38b-f9cd0baec8f2)
 
 
 
@@ -71,6 +71,7 @@ A Star
 ![AStar-2-ezgif com-crop](https://github.com/user-attachments/assets/cc1c2a50-df14-4198-825e-212edfc7b5c7)
 
 ![AStar-1-ezgif com-crop](https://github.com/user-attachments/assets/ac635352-cc7c-4e3e-99b0-50e45ad92f6e)
+
 
 
 Keybinds
