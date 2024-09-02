@@ -16,6 +16,8 @@ Features
    
 Keybinds listed at the bottom of the readme
 
+
+
 Depth-first Search
 1. Rule of expansion - Expand most recently added node
 2. Order of expansion - Up, Right, Down, Left
@@ -29,8 +31,8 @@ Depth-first Search
 
 ![DFS-2-ezgif com-crop](https://github.com/user-attachments/assets/48a9796f-c52b-490a-9397-946f4728ff89)
 
-6. However even on the simplest mazes it can skip right past the end point
-7. 
+5. However even on the simplest mazes it can skip right past the end point
+ 
 ![DFS-3-ezgif com-crop](https://github.com/user-attachments/assets/fc5d4bb6-f38f-4613-8644-7f886ab070f8)
 
 
@@ -46,9 +48,53 @@ Breadth-first search
 
 ![BFS-Empty-ezgif com-crop](https://github.com/user-attachments/assets/16761c5a-12d0-4f51-b38b-f9cd0baec8f2)
 
+
+
 Dijkstra
 1. Rule of expansion - Expand node closest to starting node using g value
 2. Because in this visualisation it can only move in 4 directions BFS and Dijkstra are identical in result but Dijkstra uses more computational power
+
+![Dijkstra-Empty-ezgif com-crop](https://github.com/user-attachments/assets/6e4b007f-e4c6-4354-a537-1d8ef367100c)
+
+![Dijkstra-2-ezgif com-crop](https://github.com/user-attachments/assets/aa955a22-2185-4f47-b37d-4b78fb97b1e6)
+
+![Dijkstra-1-ezgif com-crop](https://github.com/user-attachments/assets/cf715e80-4e1e-46fd-b499-e4a43dc3343f)
+
+
+
+A Star
+1. Rule of exspansion - Expand node with lowest f value, aka node that is close to the straightest diagonal path from the start node to end node put simply
+2. Hueristic used is Manhanntan Distance
+
+![AStar-Empty-ezgif com-crop](https://github.com/user-attachments/assets/e73bf734-b029-43b9-8279-3d11912dec36)
+![AStar-2-ezgif com-crop](https://github.com/user-attachments/assets/cc1c2a50-df14-4198-825e-212edfc7b5c7)
+![AStar-1-ezgif com-crop](https://github.com/user-attachments/assets/ac635352-cc7c-4e3e-99b0-50e45ad92f6e)
+
+
+Keybinds
+->  1-9: Place checkpoints for the pathfinding algorithm
+->  Left Mouse Click: Place walls
+->  Right Mouse CLick: Remove walls or checkpoints
+->  q: Run DFS algorithm
+->  w: Run BFS algorithm
+->  e: Run Dijkstra algorithm
+->  r: Run A Star algorithm
+->  z: Remove the last runs visualisation
+->  x: Completely clear the board
+->  Mouse Scroll: Zoom in and out
+->  Space: Generate random walls/maze
+->  +: Increase speed of animation
+->  -: Decrease speed of animation
+
+
+
+   
+
+
+
+
+
+
 
 
 
