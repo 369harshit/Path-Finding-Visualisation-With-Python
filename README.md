@@ -23,12 +23,14 @@ Depth-first Search
 4. Acts like humans in perfect mazes and sometimes can be way faster than other algorithms
 
    
-![DFS-Empty-ezgif com-crop (1)](https://github.com/user-attachments/assets/323b468b-4f96-4bd2-a3aa-87c4b4b1bbf4)                                                        ![DFS-1-ezgif com-crop](https://github.com/user-attachments/assets/53e97093-3cae-40cc-b298-f229a72a726f)
+![DFS-Empty-ezgif com-crop (1)](https://github.com/user-attachments/assets/323b468b-4f96-4bd2-a3aa-87c4b4b1bbf4)         
 
+![DFS-1-ezgif com-crop](https://github.com/user-attachments/assets/53e97093-3cae-40cc-b298-f229a72a726f)
 
 ![DFS-2-ezgif com-crop](https://github.com/user-attachments/assets/48a9796f-c52b-490a-9397-946f4728ff89)
 
 6. However even on the simplest mazes it can skip right past the end point
+7. 
 ![DFS-3-ezgif com-crop](https://github.com/user-attachments/assets/fc5d4bb6-f38f-4613-8644-7f886ab070f8)
 
 
@@ -39,7 +41,9 @@ Breadth-first search
 3. Always finds optimal route, however can be quite slow in long range searches
    
 ![BFS-2-ezgif com-crop](https://github.com/user-attachments/assets/e368284a-9d1e-49e7-b76e-805378ae7d0e)
+
 ![BFS-1-ezgif com-crop](https://github.com/user-attachments/assets/14153a15-3d16-464c-a582-133eb08bbeba)
+
 ![BFS-Empty-ezgif com-crop](https://github.com/user-attachments/assets/16761c5a-12d0-4f51-b38b-f9cd0baec8f2)
 
 Dijkstra
