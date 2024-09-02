@@ -43,10 +43,10 @@ Breadth-first search
 3. Always finds optimal route, however can be quite slow in long range searches
 
 ![BFS-Empty-ezgif com-crop](https://github.com/user-attachments/assets/16761c5a-12d0-4f51-b38b-f9cd0baec8f2)
-   
-![BFS-2-ezgif com-crop](https://github.com/user-attachments/assets/e368284a-9d1e-49e7-b76e-805378ae7d0e)
 
 ![BFS-1-ezgif com-crop](https://github.com/user-attachments/assets/14153a15-3d16-464c-a582-133eb08bbeba)
+
+![BFS-2-ezgif com-crop](https://github.com/user-attachments/assets/e368284a-9d1e-49e7-b76e-805378ae7d0e)
 
 
 
@@ -56,9 +56,9 @@ Dijkstra
 
 ![Dijkstra-Empty-ezgif com-crop](https://github.com/user-attachments/assets/6e4b007f-e4c6-4354-a537-1d8ef367100c)
 
-![Dijkstra-2-ezgif com-crop](https://github.com/user-attachments/assets/aa955a22-2185-4f47-b37d-4b78fb97b1e6)
-
 ![Dijkstra-1-ezgif com-crop](https://github.com/user-attachments/assets/cf715e80-4e1e-46fd-b499-e4a43dc3343f)
+
+![Dijkstra-2-ezgif com-crop](https://github.com/user-attachments/assets/aa955a22-2185-4f47-b37d-4b78fb97b1e6)
 
 
 
@@ -68,9 +68,9 @@ A Star
 
 ![AStar-Empty-ezgif com-crop](https://github.com/user-attachments/assets/e73bf734-b029-43b9-8279-3d11912dec36)
 
-![AStar-2-ezgif com-crop](https://github.com/user-attachments/assets/cc1c2a50-df14-4198-825e-212edfc7b5c7)
-
 ![AStar-1-ezgif com-crop](https://github.com/user-attachments/assets/ac635352-cc7c-4e3e-99b0-50e45ad92f6e)
+
+![AStar-2-ezgif com-crop](https://github.com/user-attachments/assets/cc1c2a50-df14-4198-825e-212edfc7b5c7)
 
 
 
