@@ -67,24 +67,26 @@ A Star
 2. Hueristic used is Manhanntan Distance
 
 ![AStar-Empty-ezgif com-crop](https://github.com/user-attachments/assets/e73bf734-b029-43b9-8279-3d11912dec36)
+
 ![AStar-2-ezgif com-crop](https://github.com/user-attachments/assets/cc1c2a50-df14-4198-825e-212edfc7b5c7)
+
 ![AStar-1-ezgif com-crop](https://github.com/user-attachments/assets/ac635352-cc7c-4e3e-99b0-50e45ad92f6e)
 
 
 Keybinds
-->  1-9: Place checkpoints for the pathfinding algorithm
-->  Left Mouse Click: Place walls
-->  Right Mouse CLick: Remove walls or checkpoints
-->  q: Run DFS algorithm
-->  w: Run BFS algorithm
-->  e: Run Dijkstra algorithm
-->  r: Run A Star algorithm
-->  z: Remove the last runs visualisation
-->  x: Completely clear the board
-->  Mouse Scroll: Zoom in and out
-->  Space: Generate random walls/maze
-->  +: Increase speed of animation
-->  -: Decrease speed of animation
+1.  1-9: Place checkpoints for the pathfinding algorithm
+2.  Left Mouse Click: Place walls
+3.  Right Mouse CLick: Remove walls or checkpoints
+4.  q: Run DFS algorithm
+5.  w: Run BFS algorithm
+6.  e: Run Dijkstra algorithm
+7.  r: Run A Star algorithm
+8.  z: Remove the last runs visualisation
+9.  x: Completely clear the board
+10. Mouse Scroll: Zoom in and out
+11. Space: Generate random walls/maze
+12. +: Increase speed of animation
+13. -: Decrease speed of animation
 
 
 
