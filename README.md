@@ -23,8 +23,9 @@ Depth-first Search
 4. Acts like humans in perfect mazes and sometimes can be way faster than other algorithms
 
    
-![DFS-Empty-ezgif com-crop (1)](https://github.com/user-attachments/assets/323b468b-4f96-4bd2-a3aa-87c4b4b1bbf4)
-![DFS-1-ezgif com-crop](https://github.com/user-attachments/assets/53e97093-3cae-40cc-b298-f229a72a726f)
+![DFS-Empty-ezgif com-crop (1)](https://github.com/user-attachments/assets/323b468b-4f96-4bd2-a3aa-87c4b4b1bbf4)                                                        ![DFS-1-ezgif com-crop](https://github.com/user-attachments/assets/53e97093-3cae-40cc-b298-f229a72a726f)
+
+
 ![DFS-2-ezgif com-crop](https://github.com/user-attachments/assets/48a9796f-c52b-490a-9397-946f4728ff89)
 
 6. However even on the simplest mazes it can skip right past the end point
